@@ -8,13 +8,13 @@ def isEmail(email: str) -> bool:
 
     text = reg.search(email)
 
-    return 1
+    return True if text else False
 
 
 # call the function and enter the email as the parameter
 # ( dont forget to use the print function to see the result )
 
-isEmail("sultanxx575@gmail.com")  # <-----------
+                # <-----------
 '''
 The function depends on these terms :
 
