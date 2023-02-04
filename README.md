@@ -18,4 +18,4 @@
 
 - at least two characters must be followed by the (.) symbol
 
-- the first part ((before the (@) symbol)) can contain the following symbols : (.) (_) (-)
+- the first part (before the (@) symbol) can contain the following symbols : (.) (_) (-)
